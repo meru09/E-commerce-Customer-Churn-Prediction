@@ -64,7 +64,7 @@ The dataset was sourced from Kaggle and contains 50,000 customer records includi
 ## 📊 Model Performance
 
 - **ROC AUC:** 0.745  
-![alt text](ROC_curve.png)
+![ROC Curve](images/ROC_curve.png)
 
 - **Accuracy:** 67.4%  
 - **Churn Recall:** 70%
@@ -79,7 +79,7 @@ Given the business objective of preventing revenue loss, the model prioritizes r
 
 Below is the feature importance derived from the Logistic Regression model:
 
-![alt text](Feature_importance.png)
+![Feature Importance](images/Feature_importance.png)
 
 
 ### Key Predictive Drivers:
