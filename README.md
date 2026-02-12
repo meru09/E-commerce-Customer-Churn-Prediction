@@ -64,7 +64,7 @@ The dataset was sourced from Kaggle and contains 50,000 customer records includi
 ## 📊 Model Performance
 
 - **ROC AUC:** 0.745  
-![alt text](ROC_curve_image.png)
+![alt text](ROC_curve.png)
 
 - **Accuracy:** 67.4%  
 - **Churn Recall:** 70%
